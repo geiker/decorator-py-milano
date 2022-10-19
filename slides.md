@@ -11,7 +11,7 @@ E il suo amore nei confronti di Python
 <!---
 
 - Parlare di Me
-- Accennare Futura
+- Accennare lavoro in Futura
 - Spiegare la potenza dei decoratori entry level
 - Spiegare la potenza dei decoratori end level
 
